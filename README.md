@@ -10,6 +10,10 @@ This application provides a backend solution for a meal delivery project. This b
 - **User Reviews**: Allow users to leave comments and reviews for restaurants.
 - **Order Processing**: Process and manage customer orders, including order creation, status tracking, and payment processing.
 
+## Preview
+
+![directus.png](directus.png)
+
 ## Requirements
 
 - Docker
